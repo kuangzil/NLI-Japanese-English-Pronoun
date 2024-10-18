@@ -1,0 +1,12 @@
+Frequency Distribution Patterns:
+
+Pronouns such as “he,” “she,” “it,” etc., show higher frequencies at lower TF-IDF values for native English speakers, suggesting these pronouns are commonly used in the English corpus.
+In contrast, for native Japanese speakers using English, some pronouns (like “it,” “my,” and “you”) have higher TF-IDF values, indicating different usage patterns. These higher values might reflect how these pronouns are more concentrated in specific contexts for non-native speakers.
+TF-IDF Value Distribution:
+
+TF-IDF values range from 0 to 1. Low values indicate that the pronoun is frequently used across many contexts, while higher values suggest that the pronoun appears more selectively in specific contexts.
+Pronouns like “you” and “it” for non-native speakers show higher TF-IDF values than for native speakers. This could be related to differences in language habits or sentence structures used by non-native speakers, especially those influenced by their first language (L1).
+Pronoun Usage Differences:
+
+Pronouns like “we” and “our” seem less frequently used by Japanese speakers. This might reflect differences in sentence structure or cultural preferences for group versus individual expression.
+On the other hand, “you” is used more frequently by Japanese speakers, potentially indicating a preference for more direct forms of address in conversation or writing.
